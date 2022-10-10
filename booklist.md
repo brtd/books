@@ -107,3 +107,8 @@
 | 82 | 2014-03-15 | Love's Executioner and Other Tales of Psychotherapy | Irvin D. Yalom |
 | 81 | 2014-02-22 | Infinite Jest | David Foster Wallace |
 | 80 | 2014-01-18 | Noli Me Tángere | José Rizal, Harold Augenbraum (translator) |
+| 79 | 2013-12-14 | The Blind Assassin | Margaret Atwood |
+| 78 | 2013-11-16 | The Unconsoled | Kazuo Ishiguro |
+| 77 | 2013-10-19 | World War Z: An Oral History Of The Zombie War | Max Brooks |
+| 76 | 2013-09-21 | Against Interpretation | Susan Sontag |
+| 75 | 2013-08-17 | (book not listed on meetup.com) | ??? |
