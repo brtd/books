@@ -2,6 +2,15 @@
 
 | #   | Date       | Title                                                    | Author                      |
 | :-- | :--------- | :------------------------------------------------------- | :-------------------------- |
+| 193 | 2023-06-17 | Mornings in Jenin                                        | Susan Abulhawa              |
+| 192 | 2023-05-20 | The Night Watchman                                       | Louise Erdrich              |
+| 191 | 2023-04-15 | Butcher's Crossing                                       | John Williams               |
+| 190 | 2023-03-18 | Women in the Picture: What Culture Does with Female Bodies | Catherine McCormack       |
+| 189 | 2023-02-18 | An Immense World: How Animal Senses Reveal the Hidden Realms Around Us | Ed Yong       |
+| 188 | 2023-01-21 | Black Sun                                                | Rebecca Roanhorse           |
+| 187 | 2022-12-17 | Machines Like Me                                         | Ian McEwan                  |
+| 186 | 2022-11-19 | The Bluest Eye                                           | Toni Morrison               |
+| 185 | 2022-10-15 | Pure Invention: How Japan's Pop Culture Conquered the World | Matt Alt                 |
 | 184 | 2022-09-17 | Klara and the Sun                                        | Kazuo Ishiguro              |
 | 183 | 2022-08-20 | Ice                                                      | Anna Kavan                  |
 | 182 | 2022-07-16 | The Marriage of Cadmus and Harmony                       | Roberto Calasso             |
