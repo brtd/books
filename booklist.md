@@ -2,6 +2,13 @@
 
 | #   | Date       | Title                                                    | Author                      |
 | :-- | :--------- | :------------------------------------------------------- | :-------------------------- |
+| 200 | 2024-01-20 | Broken Ghost                                             | Niall Griffiths             |
+| 199 | 2023-12-16 | Morality Play                                            | Barry Unsworth              |
+| 198 | 2023-11-18 | The Woman in the Dunes                                   | Kōbō Abe                    |
+| 197 | 2023-10-21 | The Ogre                                                 | Michel Tournier             |
+| 196 | 2023-09-16 | The Invisible Kingdom: Reimagining Chronic Illness       | Meghan O'Rourke             |
+| 195 | 2023-08-19 | This is Going to Hurt: Secret Diaries of a Junior Doctor | Adam Kay                    |
+| 194 | 2023-07-15 | The Passenger                                            | Ulrich Alexander Boschwitz  |
 | 193 | 2023-06-17 | Mornings in Jenin                                        | Susan Abulhawa              |
 | 192 | 2023-05-20 | The Night Watchman                                       | Louise Erdrich              |
 | 191 | 2023-04-15 | Butcher's Crossing                                       | John Williams               |
