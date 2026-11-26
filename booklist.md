@@ -2,6 +2,39 @@
 
 | #   | Date       | Title                                                    | Author                      |
 | :-- | :--------- | :------------------------------------------------------- | :-------------------------- |
+| 233 | 2026-11-21 | The Book Forger                                          | Joseph Hone                 |
+| 232 | 2026-10-17 | Illywhacker                                              | Peter Carey                 |
+| 231 | 2026-09-19 | Embers                                                   | Sándor Márai                |
+| 230 | 2026-07-18 | Night Sky with Exit Wounds                               | Ocean Vuong                 |
+| 229 | 2026-06-20 | Vernon Subutex                                           | Virginie Despentes          |
+| 228 | 2026-05-16 | Interior Chinatown                                       | Charles Yu                  |
+| 227 | 2026-04-18 | The Correspondent                                        | Virginia Evans              |
+| 226 | 2026-03-21 | Satantango                                               | László Krasznahorkai        |
+| 225 | 2026-02-21 | Birnam Wood                                              | Eleanor Catton              |
+| 224 | 2026-01-17 | The Dinner                                               | Herman Koch, Sam Garrett (translator) |
+| 223 | 2025-12-20 | Under the Eye of the Big Bird                            | Hiromi Kawakami             |
+| 222 | 2025-11-15 | The Shipping News                                        | Annie Proulx                |
+| 221 | 2025-10-18 | Drive Your Plow Over the Bones of the Dead               | Olga Tokarczuk              |
+| 220 | 2025-09-20 | Wild Dark Shore                                          | Charlotte McConaghy         |
+| 219 | 2025-08-16 | Changing My Mind                                         | Julian Barnes               |
+| 218 | 2025-07-19 | James                                                    | Percival Everett            |
+| 217 | 2025-06-21 | Aunt Julia and the Scriptwriter                          | Mario Vargas Llosa          |
+| 216 | 2025-05-17 | Beauty and Sadness                                       | Yasunari Kawabata           |
+| 215 | 2025-04-19 | The Last Goddess                                         | Kateřina Tučková            |
+| 214 | 2025-03-15 | On the Origin of Species and Other Stories               | Bo Young Kim                |
+| 213 | 2025-02-15 | Solaris                                                  | Stanisław Lem               |
+| 212 | 2025-01-18 | Botchan                                                  | Soseki Natsume              |
+| 211 | 2024-12-21 | The Lathe of Heaven                                      | Ursula Le Guin              |
+| 210 | 2024-11-16 | Human Acts                                               | Han Kang                    |
+| 209 | 2024-10-19 | The Travelling Cat Chronicles                            | Hiro Arikawa                |
+| 208 | 2024-09-21 | The Death of Expertise                                   | Tom Nichols                 |
+| 207 | 2024-08-17 | A Manual for Cleaning Women                              | Lucia Berlin                |
+| 206 | 2024-07-20 | Beasts of Extraordinary Circumstance                     | Ruth Emmie Lang             |
+| 205 | 2024-06-15 | Honeybee                                                 | Craig Silvey                |
+| 204 | 2024-05-18 | The Bee Sting                                            | Paul Murray                 |
+| 203 | 2024-04-20 | A Tale for the Time Being                                | Ruth Ozeki                  |
+| 202 | 2024-03-16 | Carmilla                                                 | J. Sheridan le Fanu         |
+| 201 | 2024-02-17 | Black Hawk Down                                          | Mark Bowden                 |
 | 200 | 2024-01-20 | Broken Ghost                                             | Niall Griffiths             |
 | 199 | 2023-12-16 | Morality Play                                            | Barry Unsworth              |
 | 198 | 2023-11-18 | The Woman in the Dunes                                   | Kōbō Abe                    |
